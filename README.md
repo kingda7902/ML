@@ -1,5 +1,5 @@
 # ML
-Homeworks of NTU Lee, Hung-Yi ML  and Tensorflow+Keras  
+exercise for Machine Learning  
 
 
 ## Hung-yi Lee
@@ -8,3 +8,7 @@ Homeworks of NTU Lee, Hung-Yi ML  and Tensorflow+Keras
 
 ## Tensorflow + Keras 
 參考林大貴著作  
+lecture:2018 spring NCU introduction of deep learning
+
+## Pytorch
+pytorch taipei
